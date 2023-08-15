@@ -33,6 +33,9 @@ github_username:  gbrettmiller
 # Homepage settings
 show_excerpts: true
 
+# permalink settings
+permalink: /:year/:month/:title.html
+
 # Build settings
 theme: minima
 plugins:
