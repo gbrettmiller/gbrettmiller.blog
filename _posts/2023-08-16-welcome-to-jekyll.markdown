@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-08-15 07:53:40 -0500
+title:  Hello, world!
+date:   2023-08-15
 categories: jekyll update
+excerpt: The obligatory first post for a new blog, in which I explain why I am starting it,
+  what I plan to do with it, and a brief look under the hood at the blogging platform
+  I have chosen to use. 
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

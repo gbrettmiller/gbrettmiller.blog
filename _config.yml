@@ -30,6 +30,9 @@ url: https://gbrettmiller.github.io # the base hostname & protocol for your site
 twitter_username: gbrettmiller
 github_username:  gbrettmiller
 
+# Homepage settings
+show_excerpts: true
+
 # Build settings
 theme: minima
 plugins:
