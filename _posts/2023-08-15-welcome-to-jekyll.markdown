@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Hello, world!
-date:   2023-08-15
+# date:   2023-08-16
 categories: jekyll update
 excerpt: The obligatory first post for a new blog, in which I explain why I am starting it,
   what I plan to do with it, and a brief look under the hood at the blogging platform
