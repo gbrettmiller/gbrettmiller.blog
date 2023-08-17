@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: g BRETT miller
+title: gBRETT miller
 tagline: i'm not lost, i'm wondering
-author: no straight lines
+author: gBRETT miller
 # email: gbrett@gbrettmiller.com
 description: >- # this means to ignore newlines until "baseurl:"
   Just as there are no straight lines in nature, there are no straight lines
