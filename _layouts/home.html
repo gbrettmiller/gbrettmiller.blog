@@ -23,7 +23,10 @@ layout: default
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
-        {%- endif -%}
+          {% if post.content.size > post.excerpt.size %}
+              <p><a href="{{ post.url }}"><em>(...read full post...)</em></a></p>
+          {% endif %}
+        {%- endif -%} 
       </li>
       {%- endfor -%}
     </ul>
