@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "It was twenty years ago today…"
 date: "2023-06-07"
 ---
