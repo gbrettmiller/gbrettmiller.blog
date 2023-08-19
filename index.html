@@ -7,6 +7,9 @@ layout: default
 <!-- This loops through the paginated posts -->
 {%- if site.posts.size > 0 -%}
 <h2 class="post-list-heading">{{ page.list_title | default: "no straight lines" }}</h2>
+<div class="footer-col footer-col-wrapper">
+  <p>{{- site.description | escape -}}  &nbsp;Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+</div>
 <ul class="post-list">
   {%- for post in paginator.posts -%}
   <li>
