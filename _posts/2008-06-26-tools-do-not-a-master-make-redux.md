@@ -1,0 +1,41 @@
+---
+title: "Tools do not a master make [redux]"
+date: "2008-06-26"
+categories: 
+  - "pound-of-obscure"
+tags: 
+  - "digital-thinking"
+  - "knowledgework"
+  - "mastery"
+  - "powerpoint"
+  - "tools"
+  - "workliteracy"
+---
+
+I've been catching up on the posts over at [Work Literacy](http://www.workliteracy.com) (that's a lot of catching up!), along with discovering new (to me) blogs in the field of learning. This in turn has had me revisiting old posts and ideas of my own.
+
+Joan Vinall-Cox's post [Old Skills and New Know-How](http://joanvinallcox.wordpress.com/2008/06/24/old-skills-new-know-how/), a response to Michele Martin's post [Knowledge Workers as Craft Workers](http://www.workliteracy.com/knowledge-workers-as-craft-workers) (which, as it turns out, is based on a [comment I left](http://www.workliteracy.com/developing-work-literacies-whos-the-target-audience#comment-250) to another of Michele's posts), discusses the importance of understanding the skills that must go into using a new technology.
+
+Re-printed below is a post of mine from August 2006, [Tools do not a master make](http://nsl.gbrettmiller.com/2006/tools-do-not-a-master-make), that explores a similar theme.
+
+\= = == === =====
+
+No tool of modern technology is as universally used, and almost as universally reviled, in the world of business and government as is [Microsoft PowerPoint](http://www.microsoft.com/powerpoint "Microsoft Office Online: PowerPoint 2003 Home Page"). Perhaps most famous of the PowerPoint bashers is [Edward Tufte](http://www.edwardtufte.com/tufte/index "The Work of Edward Tufte and Graphics Press"), writer of several books and essays on information design. (I was fortunate enough to attend one of [his courses](http://www.edwardtufte.com/tufte/courses "Edward Tufte: Courses") in the late ’90s, his [poster of Napoleon’s March to Moscow](http://www.edwardtufte.com/tufte/posters "Edward Tufte: Posters") still hangs on the wall in my office.)
+
+Tufte has described his issues with PowerPoint in magazine articles (such as [PowerPoint is Evil](http://wired.com/wired/archive/11.09/ppt2.html "Tufte - PowerPoint is Evil (wired.com  Sep 2003)") in [Wired](http://wired.com/ "Wired.com") magazine), in a self-published essay entitled [The Cognitive Style of PowerPoint](http://www.edwardtufte.com/tufte/powerpoint "Edward Tufte - The Cognitive Style of PowerPoint"), and in a chapter in his latest book [Beautiful Evidence](http://www.edwardtufte.com/tufte/books_be "Edward Tufte - Beautiful Evidence"). In the past week or so a few others have also lambasted PowerPoint, including Dave Snowden of [Cognitive Edge](http://www.cognitive-edge.com/ "Cognitive Edge") in a couple of posts ([Festival of Bureaucratic Hyper-Rationalism](http://www.cognitive-edge.com/2006/08/festival_of_bureaucratic_hyper.php "Dave Snowden - Festival of Bureaucratic Hyper-Rationalism") and [Tufte and PowerPoint](http://www.cognitive-edge.com/2006/08/tufte_and_powerpoint.php "Dave Snowden - Tufte and PowerPoint")) and Scott Adams (via [Dilbert](http://www.dilbert.com/comics/dilbert/archive/dilbert-20060804.html "Dilbert - 04 August 2006")).
+
+[Don Norman](http://www.jnd.org/bio-sketch.html "Don Norman's jnd.org / press kit / biography"), of the [Nielsen Norman Group](http://nngroup.com/ "Nielsen Norman Group: usability consulting, training & user research reports"), has a different take on PowerPoint. In his essay [In Defense of PowerPoint](http://jnd.org/dn.mss/in_defense_of_powerp.html "Don Norman's jnd.org / In Defense of PowerPoint"), Norman places the blame not on PowerPoint but on those who use it improperly. “Don’t blame the problem on the tool.” Or, put another way - [PowerPoint doesn’t bore people, people bore people](http://www.google.com/search?hl=en&q=%22Powerpoint+doesn%27t+bore+people%2C+people+bore+people%22&btnG=Google+Search "Google search results"). [Cliff Atkinson](http://sociablemedia.typepad.com/about.html "About Cliff Atkinson") is another who believes that PowerPoint can be used effectively. For some great ideas check out the [Beyond Bullets](http://www.beyondbullets.com/ "beyond bullets") blog or Atkinson’s book [Beyond Bullet Points](http://www.amazon.com/exec/obidos/ASIN/0735620520/sociablemedia-20 "amazon.com - Beyond Bullet Points: Using Microsoft PowerPoint to Create Presentations That Inform, Motivate, and Inspire").
+
+Of course, this problem is not limited to the world of business. One of the big promises of ever faster and more powerful consumer technology (if we are to believe marketing campaigns) is that everyone will be able to perform like an expert. Take, for example, the following pitch for Apple’s GarageBand software (emphasis is mine):
+
+> The new video track in GarageBand makes it easy to add an original music score to your movies. And don’t worry about your musical talent — **_or lack thereof_**. Just use GarageBand’s included loops, or try a combination of loops, software instruments, or any previous audio recordings you created.
+> 
+> — [Apple - iLife - Garageband](http://www.apple.com/ilife/garageband/ "Go to http://www.apple.com/ilife/garageband/")
+
+Don’t get me wrong, I love GarageBand (and the whole [iLife](http://www.apple.com/iLife "Apple - iLife") suite for that matter, I use it almost every day). It is very easy to create a ’song’ using loops, like my [First Song](../wp-content/uploads/2006/08/First%20Song.mp3 "First Song.mp3 - Brett Miller's first song in GarageBand"). Once I got comfortable with the GarageBand interface, it only took me a couple of hours to browse through the loops, pull some together so it sounded good, and export it to iTunes. The ’song’ is listenable, but doesn’t reflect any real musical skill on my part. I didn’t apply any knowledge of time signatures, keys, tempo, or anything. I just dragged-and-dropped.
+
+I guess my point is don’t get pulled into a false belief that a tool, any tool, can make you an expert at something or give you expert results. Remember, good tools are nice to have, but in the hands of a master even the simplest of tools can create wonders.
+
+\===== === == = =
+
+You may also want to check out one of my earliest posts, [Quick example of individual productivity gains / savings based on digital thinking](http://nsl.gbrettmiller.com/2003/quick-example-of-individual-productivity-gainssavings-based-on-digital-thinking).

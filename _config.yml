@@ -34,12 +34,17 @@ github_username:  gbrettmiller
 show_excerpts: true
 
 # permalink settings
-permalink: /:year/:month/:title.html
+permalink: /:year/:month/:day/:title.html
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+paginate: 5
+# paginate_path: "/page:num/"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

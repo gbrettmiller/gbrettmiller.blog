@@ -4,7 +4,7 @@ title:  Hello, world!
 date:   2023-08-18
 categories:  
 ---
-Believe it or not, before social media blogs were how people connected, shared, and learned from each other. And how we just wrote. How we thought out loud, even if no one was listening. Truth be told, I miss that. So here I am.
+Believe it or not, before social media, blogs were how people connected, shared, and learned from each other. And how we just wrote. How we thought out loud, even if no one was listening. Truth be told, I miss that. So here I am.
 
 I started blogging back in the summer of 2003 as I was exploring and learning about knowledge management, with a desire to share what I was learning and to connect with others of like mind. Over time that expanded to include complexity, Enterprise 2.0, working out loud, a whole bunch of things. I eventually created another blog to share my experiences as a parent, especially as father to an autistic son, and to connect and learn from others. Then combined them. (There is a much longer story to all this, but you don't really want to hear it.) 
 
