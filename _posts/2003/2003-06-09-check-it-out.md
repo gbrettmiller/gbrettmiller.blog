@@ -1,5 +1,5 @@
 ---
-title: "Check it out..."
+title: "Check it out..." 
 date: "2003-06-09"
 categories: 
   - "pound-of-obscure"
