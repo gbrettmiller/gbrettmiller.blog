@@ -6,13 +6,10 @@ permalink: /about/
 
 Hey, there, thanks for stopping by. I'm [gBRETT](https://gbrettmiller.me) (the "g" is silent) and this is my blog. 
 
-Believe it or not, before social media, blogs were how people connected, shared, and learned from each other. And how we just wrote. How we thought out loud, even if no one was listening. Truth be told, I miss that. So here I am.
+![Laptop with Windows login screen and an open paper notebook with handwritten notes](assets/img/deskfilamentfriday.jpg)
 
-I started blogging back in the summer of 2003 as I was exploring and learning about knowledge management, with a desire to share what I was learning and to connect with others of like mind. Over time that expanded to include complexity, Enterprise 2.0, working
- out loud, a whole bunch of things. I eventually created another blog to share my experiences as a parent, especially as father to an autistic son, and to connect and learn from others. Then combined them. (There is a much longer story to all this, but you don't really want to hear it.) 
+Throughout a career spanning a variety of domains, I have shifted as needed from being a generalist, crossing organizational and functional boundaries to see how everything fits together, to being a specialist, working deep in the self-contained silos that make up the parts of the whole. The context of my work determines the extent to which I generalize or specialize.
 
- I have imported all my stuff from June 2003 to June 2023 over from it's previous (and probably perpetual) home at [no straight lines](https://gbrettmiller.wordpress.com) to here so you can find it all in one place. As part of this first iteration of the new site, all of that content is in serious need of cleaning up, some formatting, and especially reconnection of images, so keep that in mind as you go through the older stuff. 
+I am naturally drawn to the big picture - the "why" and the "so what" and the "how might we" - and at the same time driven to develop a deep understanding of the specializations required to achieve the desired big picture outcomes. My favorite projects are the ones in which I start out having no idea how I will complete them or how they will actually turn out and for which which I am, in a traditional sense, generally unprepared to tackle.
 
-These days I'm on a learning binge of service design, customer experience, journey management, and - yes - generative AI and large language models (LLM). In general, of course, but specifically how all of that can be put to use improving the digital delivery of government services. So this new blog will include a lot of all those things, plus a healthy assortment of random. 
-
-For those who are curious, I've chosen to use Jekyll as the blogging software and GitHub Pages as the publishing platform. Jekyll because I love (love love) the static site it generates (yes, old school web geek here who longs for simple days of simple HTML pages). GitHub Pages mainly because it is free, but also because it is easy (aka serverless and I don't have to deal with infrastructure). 
+Those are the types of things you can generally expect to find here. Subscribe [via RSS](/feed.xml) to receive updates when I post something new. 
