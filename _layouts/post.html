@@ -19,6 +19,16 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="PageNavigation" style="text-align: center";>
+    {% if page.previous.url %}
+        <span style="padding-right: 4%;"><a class="prev" href="{{page.previous.url}}">&laquo; previous</a></span>
+    {% endif %}
+    | 
+    {% if page.next.url %}
+        <span style="padding-left: 4%;"><a class="next" href="{{page.next.url}}">next &raquo;</a></span>
+    {% endif %}
+</div>
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
